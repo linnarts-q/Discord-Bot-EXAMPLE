@@ -1,6 +1,6 @@
 #  Example Discord Multi-Feature Bot
 
-A feature-rich Discord bot built with **discord.py**, **SQLite** and **OpenRouter AI (Gemma)**. Built as a example project demonstrating bot development, database integration and AI API usage.
+A simple Discord bot built with **discord.py**, **SQLite** and **OpenRouter AI (Gemma)**. Built as a example project demonstrating bot development, database integration and AI API usage.
 
 ---
 

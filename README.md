@@ -6,7 +6,7 @@ A feature-rich Discord bot built with **discord.py**, **SQLite** and **OpenRoute
 
 ##  Features
 
-- 🛡 **Moderation** — Ban, kick, and warn members with logged reasons
+-  **Moderation** — Ban, kick, and warn members with logged reasons
 -  **Welcome System** — Greets new members and assigns a default role automatically
 -  **Leveling & XP** — Members earn XP for activity and unlock roles at milestones
 -  **AI Command** — Ask the bot anything, powered by Google Gemma via OpenRouter

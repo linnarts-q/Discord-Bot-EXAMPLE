@@ -9,7 +9,7 @@ An example of Discord bot built with **discord.py**, **SQLite** and **OpenRouter
 - **Moderation** — Ban, kick and warn members. Auto-ban triggers on 3rd warning. Clear warnings with `*resurrect`
 - **Welcome System** — Greets new members and assigns a default role automatically
 - **Leveling & XP** — Members earn XP for activity and unlock roles at milestones
-- **Jarvis AI** — Talk to the bot by mentioning its name or replying to its messages. Powered by Google Gemma via OpenRouter with per-user conversation memory
+- **Jarvis AI** — Talk to the bot by mentioning its name or replying to its messages. Powered by Google Gemma via OpenRouter with small per-user conversation memory
 
 ---
 

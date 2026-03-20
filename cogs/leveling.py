@@ -5,7 +5,7 @@ import aiosqlite
 import random
 
 LEVEL_ROLES = {
-    1:  "🐣 Newbie",
+    1:  "🐣 Noob",
     5:  "💬 Chatterbox",
     10: "⚡ Regular",
     20: "🔥 Veteran",
